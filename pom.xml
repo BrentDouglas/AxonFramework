@@ -105,6 +105,8 @@
             <modules>
                 <module>incubator/redis</module>
                 <module>incubator/cassandra</module>
+                <module>incubator/chronicle</module>
+                <module>incubator/kafka</module>
             </modules>
         </profile>
     </profiles>
